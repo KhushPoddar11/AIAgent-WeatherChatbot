@@ -81,15 +81,9 @@ This project is an AI-powered chatbot that interacts with users and fetches real
    - It presents weather details in an easy-to-understand format.
 
 ## Example Interaction
-**User:** "What is the weather in Delhi?"
+**>>** "What is the weather in Dublin?"
 
-**Chatbot:** "The current temperature in Delhi is 12°C with clear skies."
-
-## License
-This project is open-source and available under the MIT License.
-
-## Contributors
-- **Khush Sushil Poddar** ([GitHub](https://github.com/KhushPoddar11))
+**gpt:** "The weather in Dublin is 10.48°C"
 
 ## Future Enhancements
 - Add more weather details like humidity, wind speed, and precipitation.
